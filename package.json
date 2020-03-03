@@ -1,0 +1,12 @@
+{
+  "name": "cap-table",
+  "version": "0.0.1",
+  "description": "Capitalization Table Calculator",
+  "main": "app.js",
+  "devDependencies": {
+    "mocha": "~7.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
